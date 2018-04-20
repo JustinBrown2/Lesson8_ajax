@@ -4,19 +4,19 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(April 20, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Justin Brown)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(This assignment is introducing AJAX. Specifically this assignment interacts with an API to create a movie connection application.)
+
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://justinbrown2.github.io/Lesson8_ajax/)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (I learned the basics of how to use server-side data which does not force the page to reload.)
+2. (I learned that Ajax allows developers to create fast web applications.)
+3. (I learned the basics of HTTP request and response.)
